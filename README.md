@@ -13,7 +13,7 @@ A simple, lightweight Notepad application built using **Electron.js** with featu
 ✅ **Dark Mode Toggle**  
 
 ---
-![Working Video](https://github.com/Omkar2240/ElectronNotepad/video.mp4)
+![Working Video](https://github.com/Omkar2240/ElectronNotepad/video.gif)
 
 
 ## 📥 Installation & Usage
