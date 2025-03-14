@@ -13,6 +13,8 @@ A simple, lightweight Notepad application built using **Electron.js** with featu
 ✅ **Dark Mode Toggle**  
 
 ---
+![Looping Video](https://github.com/yourusername/repository-name/blob/main/video.mp4)
+
 
 ## 📥 Installation & Usage
 ### 1️⃣ Clone the Repository
