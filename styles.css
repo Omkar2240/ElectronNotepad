@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body {
+    font-family: 'VT323', monospace;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: black;
+}
+
+textarea {
+    width: 100%;
+    height: 80vh;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Courier New', monospace;
+    border: none;
+    outline: none;
+    resize: none;
+    background: white;
+    color: black;
+}
+
+.toolbar {
+    display: flex;
+    gap: 5px;
+    padding: 5px;
+    background: #ddd;
+}
+
+input {
+    padding: 5px;
+    font-size: 14px;
+}
+
+button {
+    padding: 5px;
+    font-size: 14px;
+}
+
+.word-count {
+    padding: 10px;
+    background: #eee;
+    text-align: right;
+}
+
+#markdownPreview {
+    display: none;
+    padding: 10px;
+    background: #fafafa;
+    border: 1px solid #ccc;
+    overflow-y: auto;
+    height: 80vh;
+}
+
+.dark-mode {
+    background: #1e1e1e;
+    color: #ddd;
+}
+
+.dark-mode textarea {
+    background: #333;
+    color: white;
+}
